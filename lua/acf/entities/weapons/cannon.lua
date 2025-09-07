@@ -65,7 +65,7 @@ Weapons.Register("C", {
 	Caliber	= {
 		Base = 100,
 		Min  = 20,
-		Max  = 170,
+		Max  = 1000,
 	},
 	Sounds = {
 		[50] = "acf_base/weapons/ac_fire4.mp3",
